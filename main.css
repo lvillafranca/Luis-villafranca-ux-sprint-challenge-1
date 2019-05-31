@@ -1,0 +1,65 @@
+*{
+    font-family: lato;
+}
+nav a{
+    background-color: #8795A2;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    color: white; 
+    
+}
+
+.Sign-Up-Section{
+    border: 1px solid red;
+    margin: 0 auto;
+    width: 346px;
+    height: 314px;
+    background: #FFFFFf;
+    Display: flex;
+    Flex-direction: column;
+    justify-content: flex-start;
+}
+
+.Form-field{
+    flex-direction: column;
+    justify-content: center;
+    
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 40px;
+}
+
+.nav-bar{
+    display: flex;
+    margin: 0 auto;
+}
+
+.container{
+    display:flex;
+}
+
+.btn-next{
+    
+    background: #3182CE;
+    color: white;
+    height: 30px;
+    width: 76px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.button{
+    align-self: flex-end;
+    margin-right: 25px;
+    margin-top: 20px
+}
